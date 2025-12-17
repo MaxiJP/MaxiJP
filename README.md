@@ -1,10 +1,13 @@
 # MaxiJP (MaxJDK)
 ## _known to hackers as jacks4_
 
-Hiya! My name is Max and I am a Java/Python developer for the UK. Yet to be hired, but sure as hell hope to solve someones problems with Spigot, Forge, or Java! (I think we know thats not going to happen though lol.)
+Hiya! My name is Max and I am a Java/Python developer for the UK. Yet to be hired, but sure as hell hope to solve someones problems with Spigot or Java! (I think we know thats not going to happen though lol.)
 
 ## What I'm working on
+- Max Unix (Manix) - A UNIX-like hobby operating system that I have wanted to make for a while. Tried it once, got a smiley face and some ASCII text to display to the screen magically with some BIOS interrupts but that was about it. (https://github.com/maxijp/manix-attempt). I'm going to try again with the Christmas break at my school as an excuse to get it done. Check it out: https://github.com/maxijp/manix
+<!--
 - Manix (Max Unix) - A UNIX-like hobby operating system that I have wanted to make for a while but am only going to even try to attempt now. Very early development alpha version currently, but feel free to check it out: https://github.com/maxijp/manix
+ --->
 <!--
 - max.btw - A bunch of linked websties as an ecosystem to try and challenge myself with WebX and Napture stuff. Check out WebX: https://github.com/face-hh/webx
  --->
